@@ -28,6 +28,6 @@ Your experience here
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solomonsquare&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akinolu52&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomonsquare&layout=compact)](https://github.com/solomonsquare/github-readme-stats)
