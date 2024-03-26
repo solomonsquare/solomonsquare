@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **solomonsquare/solomonsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Your experience here
 
 
 ## My Github Contributions and Statistics.
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonsquare&show_icons=true&theme=radical)
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonsquare&show_icons=true&theme=radical)-->
 
 
 
