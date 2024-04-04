@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a Software Engineer living in  the United Kingdom.
 
 
-Your experience here
+I am Solomon Egwu, an accomplished web developer and AI expert. Proficient in HTML, CSS, JavaScript, and various frameworks, I create responsive and user-friendly websites and web applications. My expertise in AI, including machine learning and natural language processing, enables me to integrate cutting-edge solutions. I stay ahead of trends, continuously expanding my knowledge to deliver innovative and successful projects.
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=solomonsquare&theme=dracula)](https://github.com/solomonsquare/github-readme-activity-graph) -->
 
